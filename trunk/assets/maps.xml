@@ -1,0 +1,13 @@
+<BrickMaps>
+	<Map Level="1">
+		<Brick Type="0" PosX="0" PosY="0" />
+		<Brick Type="1" PosX="1" PosY="0" />
+		<Brick Type="2" PosX="5" PosY="2" />
+	</Map>
+	<Map Level="2">
+		<Brick Type="0" PosX="0" PosY="0" />
+		<Brick Type="1" PosX="1" PosY="5" />
+		<Brick Type="2" PosX="5" PosY="1" />
+		<Brick Type="2" PosX="2" PosY="1" />
+	</Map>
+</BrickMaps>
