@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Bricks!</string>
+	<string name="app_name">Bricks</string>
+	<string name="new_game">New Game</string>
+	<string name="edit_map">Edit Map</string>
+	<string name="level_tag">Map</string>
+	<string name="brick_tag">Brick</string>
+	<string name="brick_node_type">Type</string>
+	<string name="brick_node_posx">PosX</string>
+	<string name="brick_node_posy">PosY</string>
+	<string name="map_node_level">Level</string>
+	<string name="no_map_data">There is no map data available!</string>
+</resources>
